@@ -1,0 +1,82 @@
+id,name,slug,description,price,stock,available,created,updated,photo,category_id,photo2,color,brandimage
+1,Dakota Bifold Wallet,dakota-bifold-wallet,,84.95,1,1,2022-02-10 22:58:57.086112,2022-02-10 22:58:57.086112,photos/DakotaBifoldWallet_MFu8fPM.png,1,photos/DakotaBifoldWallet2_swBiSBl.png,white,
+2,Insider Leather Wallet,insider-leather-wallet,,65,1,1,2022-02-10 22:59:50.133169,2022-02-10 22:59:50.134168,photos/InsiderWallet_U5rEQmC.png,1,photos/InsiderWallet2_UGn6DCU.png,white,
+3,Ryder Reserve Bison Wallet,ryder-reserve-bison-wallet,,49.95,1,1,2022-02-10 23:01:03.577599,2022-02-10 23:01:03.577599,photos/RyderReserveBisonWallet_OyOMNbW.png,1,photos/RyderReserveBisonWallet2_n2WCyoZ.png,white,
+4,Chelsea Leather Clutch,chelsea-leather-clutch,,139.95,1,1,2022-02-10 23:01:38.829984,2022-02-10 23:01:38.829984,photos/ChelseaLeatherClutch_dnyHAzj.png,1,photos/ChelseaLeatherClutch2.png,white,
+5,Madison Checkbook Wallet,madison-checkbook-wallet,,109.7,1,1,2022-02-10 23:02:38.912115,2022-02-10 23:02:38.912115,photos/MadisonCheckbookWallet_y0m4W7B.png,1,photos/MadisonCheckbookWallet2.png,white,
+6,Madison Wristlet Wallet,madison-wristlet-wallet,,124.9,1,1,2022-02-10 23:03:12.514089,2022-02-10 23:03:12.514089,photos/MadisonWristletWallet_15dOuYQ.png,1,photos/MadisonWristletWallet2.png,white,
+7,Ryder Reserve Trifold Wallet,ryder-reserve-trifold-wallet,,99.94,1,1,2022-02-10 23:04:04.430799,2022-02-10 23:04:04.430799,photos/RyderReserveTrifoldWallet_Za2WyCm.png,1,photos/RyderReserveTrifoldWallet2.png,white,
+8,Enfold Fullsize Wallet,enfold-fullsize-wallet,,70.55,1,1,2022-02-10 23:04:28.659478,2022-02-10 23:04:28.659478,photos/EnfoldFullsizeWallet_GQWa2fY.png,1,photos/EnfoldFullsizeWallet2.png,white,
+9,Denver Billfold Wallet,denver-billfold-wallet,,84.95,1,1,2022-02-10 23:04:54.999834,2022-02-10 23:04:54.999834,photos/DenverBillfoldWallet_7B2bYOU.png,1,photos/DenverBillfoldWallet2.png,white,
+10,Denver Travel Duffle Bag,denver-travel-duffle-bag,,399.95,1,1,2022-02-10 23:06:07.083861,2022-02-11 07:16:33.723285,photos/DenverTravelDuffleBag_7RSEc2D.png,7,photos/DenverTravelDuffleBag2.png,white,photos/svg/BuffaloJackson_yLGat5c.svg
+11,Ryder Reserve Travel Duffle Bag,ryder-reserve-travel-duffle-bag,,549.95,0,1,2022-02-10 23:06:47.642227,2022-02-11 07:17:18.997551,photos/RyderReserveTravelDuffleBag_ePbK98h.png,7,photos/RyderReserveTravelDuffleBag2.png,white,photos/svg/BuffaloJackson_Kv1ZMhr.svg
+12,Camden Braided Tote,camden-braided-tote,,224.94,1,1,2022-02-10 23:07:19.013846,2022-02-11 07:16:26.300603,photos/CamdenBraidedTote_gWl4PSa.png,7,photos/CamdenBraidedTote2.png,white,photos/svg/BuffaloJackson_BXh2Oez.svg
+13,Leather Madison Tote,leather-madison-tote,,225.95,1,1,2022-02-10 23:07:51.275887,2022-02-11 07:16:42.109254,photos/MadisonTote_DJ6nVon.png,7,photos/MadisonTote2.png,white,photos/svg/BuffaloJackson_ssDQ97w.svg
+14,Ryder Reserve Laptop Briefcase,ryder-reserve-laptop-briefcase,,449.95,1,1,2022-02-10 23:08:27.677826,2022-02-11 07:17:29.445542,photos/RyderReserveLaptopBriefcase_TMxuuQP.png,7,photos/RyderReserveLaptopBriefcase2.png,white,photos/svg/BuffaloJackson_msj2ceo.svg
+15,Roosevelt Buffalo Messenger Bag,roosevelt-buffalo-messenger-bag,,299.95,1,1,2022-02-10 23:08:58.262113,2022-02-11 07:16:52.269284,photos/RooseveltBuffaloMessengerBag_vz5SHFb.png,7,photos/RooseveltBuffaloMessengerBag2.png,white,photos/svg/BuffaloJackson_nS4X4hk.svg
+16,Leather Walker Tote,leather-walker-tote,,239.95,1,1,2022-02-10 23:09:40.054513,2022-02-10 23:09:40.054513,photos/WalkerTote.png,7,photos/WalkerTote2.png,white,
+17,Walker Small Backpack,walker-small-backpack,,199.95,1,1,2022-02-10 23:10:07.250722,2022-02-11 07:17:02.313633,photos/WalkerSmallBackpack_xCrgCNZ.png,7,photos/WalkerSmallBackpack2.png,white,photos/svg/BuffaloJackson_gFomoow.svg
+18,Walker Leather Backpack,walker-leather-backpack,,299.95,1,1,2022-02-10 23:10:39.196770,2022-02-11 07:17:11.240436,photos/WalkerLeatherBackpack_HqbEr6E.png,7,photos/WalkerLeatherBackpack2.png,white,photos/svg/BuffaloJackson_unCb0jj.svg
+19,Craft Belt,craft-belt,,110,1,1,2022-02-10 23:11:29.113613,2022-02-11 07:18:21.409372,photos/CraftBeltBrown_yy9YFaw.png,2,photos/CraftBeltBrown2.png,white,photos/svg/BuffaloJackson_MmV7Hd0.svg
+20,Mountain Belt,mountain-belt,,135,0,1,2022-02-10 23:12:03.961829,2022-02-11 07:18:59.814480,photos/MountainBeltDarkBrown_Xnn0lRN.png,2,photos/MountainBeltDarkBrown2.png,white,photos/svg/BuffaloJackson_LxrFNTs.svg
+21,Blackout Belt,blackout-belt,,115,1,1,2022-02-10 23:12:54.976855,2022-02-11 07:18:12.551809,photos/BlackoutBelt_1Ff5vpW.png,2,photos/BlackoutBelt2_UjJz6hf.png,white,photos/svg/BuffaloJackson_DtmH2TS.svg
+22,Craft Belt Olive,craft-belt-olive,,120,1,1,2022-02-10 23:13:51.840169,2022-02-11 07:19:14.472351,photos/CraftBeltOlive_f1yKciz.png,2,photos/CraftBeltOlive2_T0jdAKi.png,white,photos/svg/BuffaloJackson_hpmcWsO.svg
+23,Craft Belt Black,craft-belt-black,,115,0,1,2022-02-10 23:14:57.387558,2022-02-11 07:18:29.868384,photos/CraftBeltBlack_SeR8gTd.png,2,photos/CraftBeltBlack2.png,white,photos/svg/BuffaloJackson_QBPcxTl.svg
+24,Stockton Belt,stockton-belt,,125.9,1,1,2022-02-10 23:16:07.299055,2022-02-11 07:18:39.423311,photos/StocktonBelt_zWrVu6w.png,2,photos/StocktonBelt2.png,white,photos/svg/BuffaloJackson_uzv29nE.svg
+25,Heritage Belt,heritage-belt,,95.25,1,1,2022-02-10 23:16:37.141233,2022-02-10 23:16:37.141233,photos/HeritageBelt_ptIhlbS.png,2,,white,
+26,Craft Belt Natural,craft-belt-natural,,110,0,1,2022-02-10 23:17:19.766237,2022-02-11 06:44:38.507802,photos/CraftBeltNatural_TW4P6fa.png,2,photos/CraftBeltNatural2.png,white,
+27,Mountain Belt Russet,mountain-belt-2,,135.95,1,1,2022-02-10 23:18:14.309227,2022-02-11 07:18:50.058701,photos/MountainBeltRusset_4fvYPzp.png,2,photos/MountainBeltRusset2_7IZW2IA.png,white,photos/svg/BuffaloJackson_6VBAqMY.svg
+28,Personalized Leather Bracelet,personalized-leather-bracelet,,35.9,1,1,2022-02-10 23:20:28.849458,2022-02-10 23:20:28.849458,photos/PersonalizedBracelet_7jbLeGq.png,8,photos/PersonalizedBracelet2.png,white,
+29,Double Wrap Mountain Cuff,double-wrap-mountain-cuff,,40,1,1,2022-02-10 23:20:57.797246,2022-02-11 07:20:10.620908,photos/DoubleWrapMountainCuff_Sjll8we.png,8,photos/DoubleWrapMountainCuff2.png,white,photos/svg/CraftLore.svg
+30,Leather Knot Bracelet,leather-knot-bracelet,,30.5,1,1,2022-02-10 23:21:32.049708,2022-02-10 23:21:32.049708,photos/KnotBracelet_2ac3KQz.png,8,photos/KnotBracelet2.png,white,
+31,Strappy Wrap Bracelet,strappy-wrap-bracelet,,30.15,1,1,2022-02-10 23:22:01.653878,2022-02-10 23:22:01.653878,photos/StrappyWrapBracelet_T9yWOVi.png,8,photos/StrappyWrapBracelet2.png,white,
+32,Simple Adjustable Cuff,simple-adjustable-cuff,,30.45,1,1,2022-02-10 23:22:36.432613,2022-02-10 23:22:36.432613,photos/SimpleAdjustableCuff_2Zc3y3G.png,8,photos/SimpleAdjustableCuff2.png,white,
+33,Secret Message Bracelet,secret-message-bracelet,,45.9,1,1,2022-02-10 23:23:07.604798,2022-02-11 07:20:19.876342,photos/SecretMessageBracelet_Lm7rFe0.png,8,photos/SecretMessageBracelet2.png,white,photos/svg/BuffaloJackson_VhSHDCR.svg
+34,Hefty Braided Bracelet,hefty-braided-bracelet,,42.4,1,1,2022-02-10 23:23:31.909399,2022-02-10 23:23:31.909399,photos/HeftyBraidedBracelet_hw0p920.png,8,photos/HeftyBraidedBracelet2.png,white,
+35,Single Wrap Craft Cuff,single-wrap-craft-cuff,,27,1,1,2022-02-10 23:24:02.409098,2022-02-11 07:20:30.220004,photos/SingleWrapCraftCuff_SwFEPRT.png,8,photos/SingleWrapCraftCuff2.png,white,photos/svg/Orox.svg
+36,Mystery Braid Bracelet,mystery-braid-bracelet,,25,1,1,2022-02-10 23:24:28.525755,2022-02-10 23:24:28.525755,photos/MysteryBraidBracelet_PcKziyP.png,8,photos/MysteryBraidBracelet2.png,white,
+37,Brass Key Hook,brass-key-hook,,25,1,1,2022-02-10 23:24:58.189726,2022-02-10 23:24:58.189726,photos/BrassKeyHook.png,3,photos/BrassKeyHook2.png,white,
+38,Utility Key Clip,utility-key-clip,,30,1,1,2022-02-10 23:25:24.629009,2022-02-10 23:25:24.630004,photos/UtilityKeyClip_B583k1T.png,3,photos/UtilityKeyClip2.png,white,
+39,Leather Key Kedge,leather-key-kedge,,35,1,1,2022-02-10 23:25:56.215272,2022-02-10 23:25:56.215272,photos/KeyKedge_on3JEsm.png,3,photos/KeyKedge2.png,white,
+40,Short Key Clip,short-key-clip,,28,1,1,2022-02-10 23:26:26.838972,2022-02-10 23:26:26.838972,photos/ShortKeyClip_XxXvxxl.png,3,photos/ShortKeyClip2.png,white,
+41,Tassel Key Chain,tassel-key-chain,,25,1,1,2022-02-10 23:26:50.739480,2022-02-10 23:26:50.739480,photos/TasselKeyChain_D7qGMIY.png,3,photos/TasselKeyChain2.png,white,
+42,Wood Brown Key Holder,wood-brown-key-holder,,32.3,1,1,2022-02-10 23:27:18.874413,2022-02-10 23:27:18.874413,photos/WoodBrownKeyHolder_EgOnCIK.png,3,photos/WoodBrownKeyHolder2.png,white,
+43,Reserve Key Strap,reserve-key-strap,,24.95,1,1,2022-02-10 23:27:45.896080,2022-02-10 23:27:45.896080,photos/ReserveKeyStrap_Duogcya.png,3,photos/ReserveKeyStrap2.png,white,
+44,Dark Brown Key Holder,dark-brown-key-holder,,32.1,1,1,2022-02-10 23:28:09.732932,2022-02-10 23:28:09.732932,photos/DarkBrownKeyHolder_xPfTpsN.png,3,photos/DarkBrownKeyHolder2.png,white,
+45,Wood Brown Key Organizer,wood-brown-key-organizer,,25,1,1,2022-02-10 23:28:33.139652,2022-02-10 23:28:33.139652,photos/WoodBrownKeyOrganizer_BhxWQ70.png,3,photos/WoodBrownKeyOrganizer2.png,white,
+46,Black Field Notes Cover,black-field-notes-cover,,54.99,1,1,2022-02-10 23:29:25.317072,2022-02-10 23:29:25.317072,photos/BlackFieldNotesCover_BN4TkJS.png,9,photos/BlackFieldNotesCover2.png,white,
+47,Northswestward Field Notes,northswestward-field-notes,,81.9,1,1,2022-02-10 23:30:00.195646,2022-02-10 23:30:00.195646,photos/NorthswestwardFieldNotes_62s3mDz.png,9,photos/NorthswestwardFieldNotes2.png,white,
+48,Dakota Field Notes Cover,dakota-field-notes-cover,,99.95,1,1,2022-02-10 23:30:29.821100,2022-02-10 23:30:29.821100,photos/DakotaFieldNotesCover_giN0wjW.png,9,photos/DakotaFieldNotesCover2.png,white,
+49,Horween Field Notes,horween-field-notes,,100,1,1,2022-02-10 23:31:20.131095,2022-02-10 23:31:20.131095,photos/HorweenFieldNotes_nL50GTu.png,9,photos/HorweenFieldNotes2.png,white,
+50,Denver Journal Cover,denver-journal-cover,,74.95,1,1,2022-02-10 23:31:47.610958,2022-02-10 23:31:47.610958,photos/DenverJournalCover_CA5S4uZ.png,9,photos/DenverJournalCover2.png,white,
+51,Woodlander Leather Notebook,woodlander-leather-notebook,,94.95,1,1,2022-02-10 23:32:12.792587,2022-02-10 23:32:12.792587,photos/WoodlanderNotebook_pGn91js.png,9,photos/WoodlanderNotebook2.png,white,
+52,Large Denver Journal Cover,large-denver-journal-cover,,84.7,1,1,2022-02-10 23:32:38.388133,2022-02-10 23:32:38.388133,photos/LargeDenverJournalCover_ZXAAw4U.png,9,photos/LargeDenverJournalCover2.png,white,
+53,CheckBook Leather Wallet,checkbook-leather-wallet,,254,1,1,2022-02-10 23:33:05.670955,2022-02-10 23:33:05.670955,photos/CheckBookWallet_Ago3eXv.png,9,photos/CheckBookWallet2.png,white,
+54,Leather Notebook Cover,leather-notebook-cover,,184.95,1,1,2022-02-10 23:33:37.856989,2022-02-10 23:33:37.856989,photos/NotebookCover_Lq36obl.png,9,photos/NotebookCover2.png,white,
+55,Dark Wool Felt Phone Case,dark-wool-felt-phone-case,,44.95,1,1,2022-02-10 23:34:15.965949,2022-02-10 23:34:15.966951,photos/DarkWoolFeltPhoneCase_EdnZV7o.png,4,photos/DarkWoolFeltPhoneCase2.png,white,
+56,Dark Pocket Phone Case,dark-pocket-phone-case,,42.5,1,1,2022-02-10 23:34:37.982305,2022-02-10 23:34:37.982305,photos/DarkPocketPhoneCase_eyrZzQw.png,4,photos/DarkPocketPhoneCase2.png,white,
+57,Minimalist Phone Case,minimalist-phone-case,,54.7,1,1,2022-02-10 23:35:10.469176,2022-02-10 23:35:10.469176,photos/MinimalistPhoneCase_IzEOjcX.png,4,photos/MinimalistPhoneCase2.png,white,
+58,Dark Minimalist Phone Case,dark-minimalist-phone-case,,54.7,1,1,2022-02-10 23:35:41.259055,2022-02-10 23:35:41.259055,photos/DarkMinimalistPhoneCase_PuYPnj6.png,4,photos/DarkMinimalistPhoneCase2.png,white,
+59,Dark Iphone Leather Case,dark-iphone-leather-case,,44.95,1,1,2022-02-10 23:36:16.710328,2022-02-10 23:36:16.710328,photos/DarkIphoneLeatherCase.png,4,photos/DarkIphoneLeatherCase2.png,white,
+60,Two Iphone Case,two-iphone-case,,67.85,1,1,2022-02-10 23:36:41.141630,2022-02-10 23:36:41.141630,photos/TwoIphoneCase_bbUAN8t.png,4,photos/TwoIphoneCase2.png,white,
+61,Iphone Leather Case,iphone-leather-case,,44.95,1,1,2022-02-10 23:37:06.337782,2022-02-10 23:37:06.337782,photos/IphoneLeatherCase_SfQsieR.png,4,photos/IphoneLeatherCase2.png,white,
+62,Leather Pocket Phone Case,leather-pocket-phone-case,,42.5,1,1,2022-02-10 23:37:32.683319,2022-02-10 23:37:32.683319,photos/LeatherPocketPhoneCase_z3jriyN.png,4,photos/LeatherPocketPhoneCase2.png,white,
+63,Dark Two Iphone Case,dark-two-iphone-case,,67.85,1,1,2022-02-10 23:37:59.749296,2022-02-10 23:37:59.749296,photos/DarkTwoIphoneCase_g3hK8He.png,4,photos/DarkTwoIphoneCase2.png,white,
+64,Nato Watch Strap,nato-watch-strap,,95,1,1,2022-02-10 23:38:44.066323,2022-02-10 23:38:44.066323,photos/NatoWatchStrap_NOvrwF0.png,6,photos/NatoWatchStrap2.png,white,
+65,Dakota Apple Watch Strap,dakota-apple-watch-strap,,104.95,1,1,2022-02-10 23:39:09.229675,2022-02-10 23:39:09.229675,photos/DakotaAppleWatchStrap_3gdbfLa.png,6,photos/DakotaAppleWatchStrap2.png,white,
+66,Tan Apple Watch Strap,tan-apple-watch-strap,,97.95,1,1,2022-02-10 23:39:35.470605,2022-02-10 23:39:35.470605,photos/TanAppleWatchStrap_KyTb4VX.png,6,photos/TanAppleWatchStrap2.png,white,
+67,Diesel Apple Watch Strap,diesel-apple-watch-strap,,110,1,1,2022-02-10 23:40:00.733597,2022-02-10 23:40:00.733597,photos/DieselAppleWatchStrap_p23cM5x.png,6,photos/DieselAppleWatchStrap2.png,white,
+68,Nato Apple Watch Strap,nato-apple-watch-strap,,114.95,1,1,2022-02-10 23:40:30.153243,2022-02-10 23:40:30.153243,photos/NatoAppleWatchStrap_fJQlWJ1.png,6,photos/NatoAppleWatchStrap2.png,white,
+69,Honey Apple Watch Strap,honey-apple-watch-strap,,95.3,1,1,2022-02-10 23:40:59.560661,2022-02-10 23:40:59.560661,photos/HoneyAppleWatchStrap_bwpdWsW.png,6,photos/HoneyAppleWatchStrap2.png,white,
+70,Saddle Tan Watch Strap,saddle-tan-watch-strap,,200,1,1,2022-02-10 23:41:23.949296,2022-02-10 23:41:23.949296,photos/SaddleTanWatchStrap.png,6,photos/SaddleTanWatchStrap2.png,white,
+71,Amber Apple Watch Strap,amber-apple-watch-strap,,94.7,1,1,2022-02-10 23:41:46.134288,2022-02-10 23:41:46.134288,photos/AmberAppleWatchStrap_Ei9q500.png,6,photos/AmberAppleWatchStrap2.png,white,
+72,Brown Apple Watch Strap,brown-apple-watch-strap,,99.95,1,1,2022-02-10 23:42:06.816713,2022-02-10 23:42:06.816713,photos/BrownAppleWatchStrap_2fcFHvR.png,6,photos/BrownAppleWatchStrap2.png,white,
+73,Leather Camera Strap,leather-camera-strap,,85,1,1,2022-02-10 23:42:32.182412,2022-02-11 07:14:20.417756,photos/LeatherCameraStrap_oI8mO42.png,5,photos/AccessoriesBanner.png,white,photos/svg/BuffaloJackson.svg
+74,Leather Sunglass Case,leather-sunglass-case,,85.75,1,1,2022-02-10 23:42:58.046630,2022-02-11 07:15:15.393332,photos/LeatherSunglassCase_ZfePAoZ.png,5,photos/LeatherSunglassCase2.png,white,photos/svg/BuffaloJackson_L8N2dGI.svg
+75,Leather Coaster Set,leather-coaster-set,,85,1,1,2022-02-10 23:44:17.581172,2022-02-11 07:14:30.754321,photos/LeatherCoasterSet_SLizuCC.png,5,photos/LeatherCoasterSet2.png,white,photos/svg/BuffaloJackson_taQPqvk.svg
+76,Leather Parts Bag,leather-parts-bag,,65.95,1,1,2022-02-10 23:44:40.191340,2022-02-11 07:14:48.707242,photos/LeatherPartsBag_EWzHciT.png,5,photos/LeatherPartsBag2.png,white,photos/svg/BuffaloJackson_T9tb1It.svg
+77,Leather Lighter Sleeve,leather-lighter-sleeve,,30,1,1,2022-02-10 23:45:07.285076,2022-02-11 07:15:34.906824,photos/LighterSleeve_9AE5iUL.png,5,photos/LighterSleeve2.png,white,photos/svg/BuffaloJackson_d2S6fFZ.svg
+78,Travel Valet Tray,travel-valet-tray,,45,1,1,2022-02-10 23:45:31.806831,2022-02-11 07:14:57.538324,photos/TravelValetTray_EUjvSzB.png,5,photos/TravelValetTray2.png,white,photos/svg/BuffaloJackson_7k0qcfs.svg
+79,Leather Valet Tray,leather-valet-tray,,35,1,1,2022-02-10 23:45:56.297859,2022-02-10 23:45:56.297859,photos/ValetTray_MXA9JlL.png,5,photos/ValetTray2.png,white,
+80,Leather Guitar Strap,leather-guitar-strap,,85.95,1,1,2022-02-10 23:46:24.350321,2022-02-11 07:14:40.333237,photos/LeatherGuitarStrap_B8A2ue8.png,5,photos/LeatherGuitarStrap2.png,white,photos/svg/BuffaloJackson_VdBnlUU.svg
+81,Leather Waist Bag,leather-waist-bag,,175,1,1,2022-02-10 23:46:50.035493,2022-02-11 07:15:06.450565,photos/LeatherWaistBag_1QUfqdl.png,5,photos/LeatherWaistBag2.png,white,photos/svg/BuffaloJackson_fKElRGm.svg

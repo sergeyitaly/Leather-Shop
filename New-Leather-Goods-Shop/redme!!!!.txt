@@ -1,0 +1,25 @@
+0. create your project folder and make gitclone of this project
+1. cd frontend
+2. install nvm:
+    git clone https://github.com/creationix/nvm.git
+    source ~/nvm/nvm.sh
+    nvm ls-remote
+    nvm install v18.0.0
+2. npm install all
+3. npm run build
+4. create virtualenv in pythonanyware
+5. activate virtualenv
+6. cd to django project
+7. pip install -r requirements.txt
+8. python manage.py migrate
+9. python manage.py makemigrations
+10. python manage.py collectstatic
+11. create new web app on pythonanyware:
+    select env
+    select static filder
+    select media folder
+12. change username.pythonanyware evrywere in project (settings.py, *.js, *.jsx, wsgi file, etc) to your username. Save changes
+13. reload webapp on pythonanyware
+14. Go to admin panel and change site domain name to your username (to correct users activation)
+15. have a fun with Django (backend) and React (frontend) site <New-Leather-Goods-Shop>
+
